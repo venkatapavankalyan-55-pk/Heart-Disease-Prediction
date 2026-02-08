@@ -1,7 +1,6 @@
 # Heart Disease Prediction
 
-- LinkedIn [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan)
-- Medium [KalyanMurapaka274](https://medium.com/@kalyanmurapaka274)
+- LinkedIn [Venkata Pavan Kalyan Pinniboina ](https://www.linkedin.com/in/vpkk/)
 
 
 ## About The Project
@@ -121,13 +120,7 @@ If you prefer to use Docker, you can install and run the project using a Docker 
 
 We use MLflow to log and track our machine learning experiments. The MLFLOW_TRACKING_URI environment variable is set to the DagsHub repository's MLflow tracking URI.
 
-```bash
-export MLFLOW_TRACKING_URI=https://dagshub.com/HemaKalyan45/Heart-Disease-Prediction.mlflow
 
-export MLFLOW_TRACKING_USERNAME=HemaKalyan45
-
-export MLFLOW_TRACKING_PASSWORD=f3c9457eb0ff83244e93ac8ee651b80d4b35f07c
-```
 
 ## Contributing
 
@@ -147,11 +140,8 @@ Don't forget to give the project a star! Thanks again!
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
-## Contact
-
-Hema Kalyan Murapaka - [@kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com)
-
 
 ## Acknowledgements
 
 We'd like to extend our gratitude to all individuals and organizations who have played a role in the development and success of this project. Your support, whether through contributions, inspiration, or encouragement, has been invaluable. Thank you for being a part of our journey.
+
