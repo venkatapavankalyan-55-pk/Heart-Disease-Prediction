@@ -58,9 +58,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Open your terminal or command prompt.
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
-     ```
-     git clone https://github.com/KalyanMurapaka45/Heart-Disease-Prediction.git
-     ```
+    
 
 2. **Create a Virtual Environment** (Optional but recommended)
    - It's a good practice to create a virtual environment to manage project dependencies. Run the following command:
@@ -144,4 +142,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Acknowledgements
 
 We'd like to extend our gratitude to all individuals and organizations who have played a role in the development and success of this project. Your support, whether through contributions, inspiration, or encouragement, has been invaluable. Thank you for being a part of our journey.
+
 
